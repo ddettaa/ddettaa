@@ -24,8 +24,7 @@
 
 ###
 
-<p align="left">Halo perkenalkan namaku Aditya Rahman<br><br>- 🔭 Aku sedang menempuh kuliah di Politeknik Negeri Banjarmasin.<br>- 📚 Saat ini aku memiliki minat pada Back-end developer dan juga Database<br>- ⚡ Selain itu aku minat terhadap project blockchain dan aktif berpartisipasi pada projectnya, seperti : Sahara AI, Recall AI, Fraction AI, Linera, Monad, Irys Programmable Data, MegaETH dan Anoma</p>
-
+<p align="left">Halo perkenalkan namaku Aditya Rahman<br><br>- 🔭 Aku sedang menempuh kuliah di Politeknik Negeri Banjarmasin.<br>- 📚 Saat ini aku memiliki minat pada Back-end developer dan juga Database<br>-
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
